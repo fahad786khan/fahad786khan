@@ -1,6 +1,5 @@
 السلام عليكم و رحمة الله و بركاته
-I’m @fahad786khan
-- 👀 I’m interested in development & DSA
+- 🔥 I’m interested in development & DSA
 - 🌱 I’m currently learning java and C++
 - 💞️ I’m looking to collaborate on yt downloader project
 - 📫 You can reach me on twitter (@fahad_khan_777)
